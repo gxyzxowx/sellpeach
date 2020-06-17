@@ -1,7 +1,15 @@
+<!--
+ * @Author: your name
+ * @Date: 2020-06-17 14:27:41
+ * @LastEditTime: 2020-06-17 14:48:04
+ * @LastEditors: Please set LastEditors
+ * @Description: In User Settings Edit
+ * @FilePath: \05sellpeach\sellpeach\src\App.vue
+--> 
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <HelloWorld msg="Welcome to Your abc"/>
   </div>
 </template>
 
